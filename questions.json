@@ -70,5 +70,29 @@
       }
     ],
     "answer": "a34"
+  },
+  {
+    "title": "What is the scientific name of a butterfly?",
+    "category": "general",
+    "id": "q4",
+    "options": [
+      {
+        "id": "a41",
+        "title": "Apis"
+      },
+      {
+        "id": "a42",
+        "title": "Coleoptera"
+      },
+      {
+        "id": "a43",
+        "title": "Formicidae"
+      },
+      {
+        "id": "a44",
+        "title": "Rhopalocera"
+      }
+    ],
+    "answer": "a43"
   }
 ]
