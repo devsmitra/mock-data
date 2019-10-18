@@ -1,16 +1,21 @@
 [{
     "id": "cat1",
-    "title": "MCQ"
+    "title": "MCQ",
+    "url": "/mcq"
 }, {
     "id": "cat2",
-    "title": "Match the following"
+    "title": "MCQ-1",
+    "url": "/mcq"
 }, {
     "id": "cat3",
-    "title": "MCQ-1"
+    "title": "MCQ-2",
+    "url": "/mcq"
 }, {
     "id": "cat4",
-    "title": "MCQ-2"
+    "title": "MCQ-3",
+    "url": "/mcq"
 }, {
     "id": "cat5",
-    "title": "MCQ-3"
+    "title": "MCQ-4",
+    "url": "/mcq"
 }]
