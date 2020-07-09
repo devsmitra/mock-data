@@ -1,0 +1,19 @@
+[{
+    "imagePath": "https://raw.githubusercontent.com/rsharma0011/Best-Flutter-UI-Templates/master/best_flutter_ui_templates/assets/design_course/interFace1.png",
+    "lessonCount": 24,
+    "money": 25,
+    "rating": 4.3,
+    "title": "User interface Design"
+},{
+    "imagePath": "https://raw.githubusercontent.com/rsharma0011/Best-Flutter-UI-Templates/master/best_flutter_ui_templates/assets/design_course/interFace2.png",
+    "lessonCount": 22,
+    "money": 18,
+    "rating": 4.6,
+    "title": "User interface Design"
+},{
+    "imagePath": "https://raw.githubusercontent.com/rsharma0011/Best-Flutter-UI-Templates/master/best_flutter_ui_templates/assets/design_course/interFace3.png",
+    "lessonCount": 24,
+    "money": 25,
+    "rating": 4.3,
+    "title": "User interface Design"
+}]
